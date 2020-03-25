@@ -1,0 +1,11 @@
+C:\Users\lewis\source\repos\OOP_Assessment2\OOP_Assessment2\bin\Debug\netcoreapp3.1\OOP_Assessment2.exe
+C:\Users\lewis\source\repos\OOP_Assessment2\OOP_Assessment2\bin\Debug\netcoreapp3.1\OOP_Assessment2.deps.json
+C:\Users\lewis\source\repos\OOP_Assessment2\OOP_Assessment2\bin\Debug\netcoreapp3.1\OOP_Assessment2.runtimeconfig.json
+C:\Users\lewis\source\repos\OOP_Assessment2\OOP_Assessment2\bin\Debug\netcoreapp3.1\OOP_Assessment2.runtimeconfig.dev.json
+C:\Users\lewis\source\repos\OOP_Assessment2\OOP_Assessment2\bin\Debug\netcoreapp3.1\OOP_Assessment2.dll
+C:\Users\lewis\source\repos\OOP_Assessment2\OOP_Assessment2\bin\Debug\netcoreapp3.1\OOP_Assessment2.pdb
+C:\Users\lewis\source\repos\OOP_Assessment2\OOP_Assessment2\obj\Debug\netcoreapp3.1\OOP_Assessment2.csprojAssemblyReference.cache
+C:\Users\lewis\source\repos\OOP_Assessment2\OOP_Assessment2\obj\Debug\netcoreapp3.1\OOP_Assessment2.AssemblyInfoInputs.cache
+C:\Users\lewis\source\repos\OOP_Assessment2\OOP_Assessment2\obj\Debug\netcoreapp3.1\OOP_Assessment2.AssemblyInfo.cs
+C:\Users\lewis\source\repos\OOP_Assessment2\OOP_Assessment2\obj\Debug\netcoreapp3.1\OOP_Assessment2.dll
+C:\Users\lewis\source\repos\OOP_Assessment2\OOP_Assessment2\obj\Debug\netcoreapp3.1\OOP_Assessment2.pdb
